@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>eyejae Plas</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</description>
+    <link>eyejaeplas.com/</link>
+    <atom:link href="eyejaeplas.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Apr 2016 18:06:37 -0700</pubDate>
+    <lastBuildDate>Fri, 15 Apr 2016 18:06:37 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.2</generator>
+    
+      <item>
+        <title>audio test</title>
+        <description>&lt;h2 id=&quot;mp3-test&quot;&gt;mp3 test&lt;/h2&gt;
+</description>
+        <pubDate>Wed, 06 Apr 2016 20:44:59 -0700</pubDate>
+        <link>eyejaeplas.com/test/audio.html</link>
+        <guid isPermaLink="true">eyejaeplas.com/test/audio.html</guid>
+        
+        <category>test</category>
+        
+        <category>test</category>
+        
+        
+        <category>test</category>
+        
+      </item>
+    
+      <item>
+        <title>Quick Tips: </title>
+        <description>&lt;p&gt;test&lt;/p&gt;
+</description>
+        <pubDate>Sun, 03 Apr 2016 14:02:59 -0700</pubDate>
+        <link>eyejaeplas.com/Quick-Tips/Converting-my-older-sites.html</link>
+        <guid isPermaLink="true">eyejaeplas.com/Quick-Tips/Converting-my-older-sites.html</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>WebDev</category>
+        
+        <category>My work</category>
+        
+        
+        <category>Quick</category>
+        
+        <category>Tips</category>
+        
+      </item>
+    
+      <item>
+        <title>My work out routine, The Reddit PPL</title>
+        <description>&lt;p&gt;Here is the work out i am doing.&lt;/p&gt;
+
+&lt;p&gt;The post goes into detail of: what to do, How to do it, how to better it, and when to change. It is a great comprehensive guide for people who want to get big, but don’t know how.&lt;/p&gt;
+
+&lt;p&gt;The following is a post made by Reddit user &lt;em&gt;Metallicadpa&lt;/em&gt; See original post &lt;strong&gt;&lt;em&gt;&lt;a href=&quot;https://www.reddit.com/r/Fitness/comments/37ylk5/a_linear_progression_based_ppl_program_for/&quot;&gt;here&lt;/a&gt;&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;To start, a motivational quote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Errybody wanna be a bodybuilder, but nobody wanna lift this heavy-ass weight.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;R. Coleman.&lt;/p&gt;
+
+&lt;p&gt;Anyway, there seems to be a bit of a conflict between conventional training wisdom for beginners (3 day a week full body linear progression! SS/SL/Greyskull only!) and what beginners actually wanna do (in the gym every day, biceps and triceps, woo!). What I’m going to write here is an attempt to reconcile these two ideas and produce a sane way for a beginner to train more frequently and give the attention to the glamour muscles that they want, while also progressing in a correct, appropriate manner. To do this, I’m going to borrow wisdom from a few different programs and ideas. My goal is to provide an accessible program for beginners with enough volume to stimulate growth in the bro muscles, while also giving enough intensity in the main movements to elicit strength adaptations.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First, some nomenclature:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;3x10 - in this case, it reads &lt;em&gt;three sets of ten repetitions&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;2x5, 1x5+  - this reads as, &lt;em&gt;two sets of 5, one set of at least 5, but as many as possible&lt;/em&gt; (more to come on this later)&lt;/p&gt;
+
+&lt;p&gt;SS - this reads as &lt;em&gt;superset&lt;/em&gt; (two exercises performed back to back with no rest in between. &lt;strong&gt;SUPASET&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;p&gt;BB - &lt;em&gt;barbell&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;DB - &lt;em&gt;dumbbell&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WOAH, WHAT DO YOU MEAN BY ACCESSORY WORK AND MAIN LIFTS?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The main lifts are just the first exercises of the day, and these are always going to be done heavier than the other lifts of that day. The lifts that follow are accessory lifts, designed to build muscle, balance out weakpoints and improve your strength in the main lifts.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;BUT I DON’T CARE ABOUT STRENGTH, I JUST WANNA BE JACKED AND TAN&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Who doesn’t wanna be jacked and tan, I mean honestly? But strength progression is important, especially as a novice, for making you more muscular. Generally speaking, the more you can lift, the bigger you’ll be. Progressing your main lifts will also have carryover effects to your other lifts as well: if you can bench press 300lbs, you can sure as hell bet that you’re not gonna be incline dumbbell pressing 20lbs. And who do you really think is gonna be bigger: the version of you who can bench 200lbs, or the version of you who can bench 300lbs?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHAT IS LINEAR PROGRESSION?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Put simply, linear progression means that if you were to graph your weights, the line that you would end up drawing would be straight.&lt;/p&gt;
+
+&lt;p&gt;Like this&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/yX67l03.png&quot; alt=&quot;1&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This means that you need to add weight workout to workout, every workout. You can make progress very quickly this way &lt;em&gt;if you’re a beginner&lt;/em&gt; because your body doesn’t need much stimulus to adapt. As you get more advanced, you need more stimulus and more time to adapt.&lt;/p&gt;
+
+&lt;p&gt;See this handy graph from Starting Strength to get a better understanding of what I mean.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://startingstrength.com/articles/figure1te.jpg&quot; alt=&quot;2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHAT IS PPL?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;PPL is just the initialiasm of &lt;em&gt;push, pull, legs&lt;/em&gt; or &lt;em&gt;pull, push, legs&lt;/em&gt; (it really doesn’t matter which). This will (typically) have you doing 3 workouts, 2 times per week.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Push&lt;/strong&gt; - this can just be thought of as moving things &lt;em&gt;away&lt;/em&gt; from your body (think of a bench press)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Pull&lt;/strong&gt; - this can be thought of as moving things &lt;em&gt;towards&lt;/em&gt; your body (think of a row)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Legs&lt;/strong&gt; - I’m not going to bother with an explanation here&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;WHY DO I NEED TO PROGRESS LIKE THIS?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://en.wikipedia.org/wiki/Progressive_overload&quot; target=&quot;_blank&quot;&gt;Because of progressive overload&lt;/a&gt;. Without this, you won’t make any adaptations (strength gains or size gains).&lt;/p&gt;
+
+&lt;p&gt;You will always start the day with a heavy barbell exercise, and this is what you need to progress linearly (if you remember from above, this means add weight every session). Then afterwards you will follow up with higher repetition exercises, that are more ‘bodybuilding’ based.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHAT IS THE PROGRAM?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s 6 days a week. You can run it one of two ways: &lt;strong&gt;PPLRPPL&lt;/strong&gt; or &lt;strong&gt;PPLPPLR&lt;/strong&gt; (where R denotes a rest day) depending on your schedule and preferences: it really makes no difference. Personally, I would run the program in the Pull, Push, Legs order.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;YOU SAY TO ADD WEIGHT LINEARLY, BUT HOW MUCH WEIGHT DO YOU ADD PER SESSION?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;2.5kg/5lbs for upper body lifts (bench press, row, overhead press)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2.5kg/5lbs for squats&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;5kg/10lbs for deadlifts&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now, without further ado…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PULL&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Deadlifts 1x5+/Barbell rows 4x5, 1x5+ (alternate, so if you did deadlifts on Monday, you would do rows on Thursday, and so on)&lt;/p&gt;
+
+&lt;p&gt;3x8-12 Pulldowns OR Pullups OR chinups&lt;/p&gt;
+
+&lt;p&gt;3x8-12 seated cable rows OR chest supported rows&lt;/p&gt;
+
+&lt;p&gt;5x15-20 face pulls&lt;/p&gt;
+
+&lt;p&gt;4x8-12 hammer curls&lt;/p&gt;
+
+&lt;p&gt;4x8-12 dumbbell curls&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;PUSH&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;4x5, 1x5+ bench press/4x5, 1x5+ overhead press (alternate in the same fashion as the rows and deadlifts)&lt;/p&gt;
+
+&lt;p&gt;3x8-12 overhead press/3x8-12 bench press (do the opposite movement: if you bench pressed first, overhead press here)&lt;/p&gt;
+
+&lt;p&gt;3x8-12 incline dumbbell press&lt;/p&gt;
+
+&lt;p&gt;3x8-12 triceps pushdowns SS 3x15-20 lateral raises&lt;/p&gt;
+
+&lt;p&gt;3x8-12 overhead triceps extensions SS 3x15-20 lateral raises&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;LEGS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;2x5, 1x5+ squat&lt;/p&gt;
+
+&lt;p&gt;3x8-12 Romanian Deadlift&lt;/p&gt;
+
+&lt;p&gt;3x8-12 leg press&lt;/p&gt;
+
+&lt;p&gt;3x8-12 leg curls&lt;/p&gt;
+
+&lt;p&gt;5x8-12 calf raises&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FINER DETAILS: AMRAP SETS AND PROGRESSION OF ACCESSORIES&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So, the first movements are done for sets of 5, and the final set is what’s known as an &lt;em&gt;AMRAP&lt;/em&gt; set (As Many Reps As Possible). This doesn’t mean that you can just YOLO it and push until you can’t push anymore. By As Many Reps As Possible, it really means &lt;em&gt;As many reps as possible while still maintaining good form&lt;/em&gt;. You don’t really want to be grinding too many reps, since you want to keep rep quality high. If you want a good reason to keep rep quality high, &lt;a href=&quot;https://www.youtube.com/watch?v=oLSpdzT6sGw&quot; target=&quot;_blank&quot;&gt;watch this recent video from Omar Isuf&lt;/a&gt;. The point of the AMRAP set is that it really gives you a chance to test your limits, and if you’re feeling good on a specific day, you can get in a couple of extra reps. But the real moneymaker from this comes in when you deload.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Progression of accessories&lt;/strong&gt; should be done as so: when you can hit 3 sets of 12 with good form, add weight. As long as you’re in the 8-12 range for your sets then you’re good. If not, lower the weight.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;HOW DO I KNOW WHAT WEIGHTS TO START WITH?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I don’t like the Stronglifts 5x5 idea of starting with the empty bar, because I think the empty bar is useless for training purposes if you’re capable of lifting a lot more. The mechanics of a lift (especially the squat for me) change a lot with weight.&lt;/p&gt;
+
+&lt;p&gt;I would recommend starting with the bar, and gradually adding weight for sets of 5 until the bar slows down. Then back off 2.5kg/5lbs, and this is your starting point. So if you worked up to a 60kg bench press before the bar slowed down at all, start at 57.5kg.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WARMUPS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(idea courtesy of /u/Gawd1)&lt;/p&gt;
+
+&lt;p&gt;I’m a big believer in just practising the movement as a warmup. So you can use bench press to warm up for bench press. Or squats to warm up for squats. You get the idea. The goal of a warmup is to get blood into the muscles and joints that are going to be used, and also to start drilling the motor patterns into your body for form purposes. As an example, if you’re going to be benching 200lbs as your top set for that day, your warmups could look something like this:&lt;/p&gt;
+
+&lt;p&gt;Empty bar x 10&lt;/p&gt;
+
+&lt;p&gt;95lbs x10&lt;/p&gt;
+
+&lt;p&gt;135lbs x5&lt;/p&gt;
+
+&lt;p&gt;185lbs x3&lt;/p&gt;
+
+&lt;p&gt;200lbs 4x5, 1x5+&lt;/p&gt;
+
+&lt;p&gt;Warming up is a very individual thing, however, so do whatever you want to get yourself prepared for the lifts. If you like foam rolling, great. If you like some dynamic stretches and things like clapping pushups, great. Do whatever you want to do. The only recommendation is that I would avoid static stretches before lifting.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;REST&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Rest as long as is needed between sets. For a general guideline, I would recommend:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;3-5 minutes between your first exercise of the day&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;1-3 minutes between all your other exercises&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Don’t worry too much about rest times, and worry more about just getting all your sets and reps in.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;FAILURE&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Failure is part of life, and since lifting weights is a lot like life, failure is also part of lifting weights. At some point, you’re going to fail. Failure can occur really for two reasons&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;not enough sleep, food or recovery: if you spent all night partying and chasing pussy with your wing man, Jim Beam, you’re probably not gonna perform well in the gym. In this case, don’t count it as a true failure and just try again next time when you’re fresh&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;strength failure. This is when you’ve reached the limit of your progression. If you fail a session 3 times in a row (for example, if you fail to hit 3x5 on squats at 100kg 3 times in a row), you need to lower the weight.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This leads us to…&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;DELOADING&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Deloading is exactly what it sounds like – taking weight off the bar. Take 10% off your working weights (so a 100kg squat would go back down to 90kg), and work back up. This should give you a good chance to push things on the AMRAP final sets. If you got 2x5 and 1x6 at 90kg the first time round, you can bet your ass that you’ll get more than 6 on your last set the second time round. And by the time you work your way back up, if you can hit 97.5kg for 2x5, 1x8, 100kg for 3x5 will be trivial.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;MY GYM OR GARAGE DOESN’T HAVE XYZ, WHAT CAN I DO INSTEAD?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(this section as recommended by /u/LaRivalita)&lt;/p&gt;
+
+&lt;p&gt;So basically everything here is interchangeable, except the main lifts: the squat, bench press, deadlift, overhead press, bent over row. If you can do those in your gym (not in a smith machine) then you can make this program work. Treat it more as template than gospel. Some ideas for substitutions are the following (and if anyone has other suggestions, I’m happy to add them to the list!):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Pull substitutions&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Seated cable rows can be replaced with dumbbell rows or t-bar rows&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Face pulls can be replaced with rear delt flyes AND band pull aparts (not one or the other)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;hammer curls and dumbbell curls can really be replaced by any curl variation: it’s a curl, shit ain’t that serious!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Push substitutions&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;incline dumbbell press can be replaced with landmine press&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;triceps pushdowns and overhead extensions can be replaced with any general triceps exercise: skullcrushers, lying triceps extensions, dumbbell triceps extensions, whatever you want to do&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Legs substitutions&lt;/strong&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Leg press can be substituted with front squats&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;leg curls can be substituted with glute ham raises&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;calf raises can be substituted by nothing because who gives a flying fuck about calves anyway? (not srs, any kind of calf raise will be fine here)&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;HOW TO MODIFY THIS TO FIT YOUR GOALS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(this section as recommended by /u/theedoor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you want to lift heavy weights&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;There are a few things I would recommend here.&lt;/p&gt;
+
+&lt;p&gt;/u/theedoor’s advice of: “for example, if you want to be focused a bit more on strength, replace 3x8-12 RDLs with 3x5 RDLs. Add weighted dips, and weighted chins-ups/pull-ups in the 3x5 range (with bodyweight back off sets).” is brilliant.&lt;/p&gt;
+
+&lt;p&gt;If you want to lift heavy weights, then you need to lift heavy weights. I know this sounds stupid, but it makes sense. The more time you spend in the lower rep ranges, the better you’re going to be in those rep ranges, so if you want to lift heavy weights then feel free to alter the compound movement accessories (so your presses, your pulldowns or rows, your romanian deadlifts or your leg presses) to be in the lower rep ranges. 3x4-6 is perfect for things like this. In my view, the isolation accessory movements should be kept in higher rep ranges, because joint wear and tear can creep in here, and getting a pump is fucking awesome.&lt;/p&gt;
+
+&lt;p&gt;Specificity is also pretty key if you want to lift heavy weights. If you want to be a good bench presser, then maybe incline dumbbell press isn’t going to be &lt;em&gt;as specific&lt;/em&gt; as doing a close grip bench press instead is. If you want to substitute some of the (again, compound) accessory movements for ones that more closely resemble the main lifts, then be my guest.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you want to increase endurance&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Keep the first exercise the same, up the rep range on everything else. 15-20 reps is a great range for increasing endurance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you just want to be jacked and tan&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Keep things the way they are. There’s enough volume and a decent enough mix of volume and strength to get you big as long as you’re eating enough. If you feel a specific bodypart is lacking, throw in a couple of extra sets for it, ideally isolation (so think along the lines of pec deck or biceps curls, not bench press or rows), so that you’re not adding too much systemic stress, which could affect recovery times.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;WHAT’S MORE IMPORTANT, FORM OR WEIGHT?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;(idea courtesy of /u/Nobody773)&lt;/p&gt;
+
+&lt;p&gt;Both. Nobody got big benching 1 plate regardless of how good their form is. You should push the weights up and continue progressing as long as your form is &lt;em&gt;acceptable.&lt;/em&gt; Demanding that your form is 100% perfect all the time as a beginner is just not possible, so as long as your form is acceptable and not injurious, then continue adding weight. As an unknown lifter once said: the best way to improve your form at 225lbs is to make 225lbs part of your warmup. I can guarantee that when you’re squatting 315lbs for reps that your form at 225lbs is picture perfect.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;THIS IS COMPLICATED, THERE’S A LOT GOING ON! HOW DO I KEEP TRACK OF THIS?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;It’s something I hadn’t thought of, since I have a borderline-autistic savant memory for things I do in the gym, but &lt;a href=&quot;https://drive.google.com/previewtemplate?id=1MbOWpTBcNNQuqHd8q9jUUR2V-ZERWNDKYPd5kzVjCJQ&amp;amp;mode=public&quot; target=&quot;_blank&quot;&gt;here is spreadsheet created by /u/Mobius000&lt;/a&gt; which will make tracking this a walk in the park.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAN I DO THIS PROGRAM WHILE CUTTING?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Sure! You can do anything while cutting, so try it out. I suspect that recovery may become an issue due to the volume, so if you are struggling to recover and feeling like shit, drop some of the volume: 3x8-12 becomes 2x8-12, for example. Taper the volume off as little as possible, and keep the volume for the main lifts as high as you can for as long as you can.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAN I DO AB WORK ON THIS PROGRAM?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yes. I would recommend doing ab work on your deadlift days and your squat days if you want to do ab work. Nothing major, just do a few sets of (weighted) planks or a few sets of ab wheel and some hanging leg raises.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;NEXT STEPS&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;A few people have requested this, so I thought I would write out what I think logical next steps from here are. This is a &lt;strong&gt;beginner&lt;/strong&gt; routine, for beginners. Intermediate and advanced lifters can’t make linear progress like this anymore, and require some more advanced training in order to progress.&lt;/p&gt;
+
+&lt;p&gt;Questions courtesy of /u/FattestRabbit:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;What are some signs that you may want to graduate from this program?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Put simply, when you’re no longer a beginner. A beginner lifter is defined as someone who can make progress workout to workout: if you deadlift 100kg for 5 reps, then the next time you deadlift you’ll be able to deadlift 105kg for 5 reps. Once this &lt;em&gt;linear&lt;/em&gt; progression stalls out, and you take longer to recover between workouts because the weights are heavier (and therefore the systemic stress is higher), you become an intermediate lifter. An intermediate lifter is someone who needs ~weekly progression in order to maintain progress (programs like the Texas Method for example).&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Can you adapt this program for ‘intermediate’ lifters? How far can this program take you if you upped the weights and moved more sets to 3x5-8 (instead of 3x8-12)?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Yes, you can adapt this program for more intermediate lifters, but I wouldn’t like to try and formalise something like that. The more advanced you get as a lifter, the more you should be realising what things are beneficial for you, and figuring out what works for you, because everyone is a bit different. In the beginner stages, this stuff really isn’t too important because almost any beginner will make progress doing almost anything. I would recommend looking at progression schemes that are in things like the &lt;strong&gt;Texas Method&lt;/strong&gt;, &lt;strong&gt;Madcows 5x5&lt;/strong&gt; and &lt;strong&gt;5/3/1&lt;/strong&gt; for your main lifts and then just sticking with fairly similar accessory work: more volume almost always equates to better gains, provided you can recover from it.&lt;/p&gt;
+
+&lt;p&gt;Moving more sets to 3x5-8 wouldn’t necessarily have a huge impact on your abilities to lift big weights in the main lifts, and heavier sets (in my experience) tend to impose more wear and tear on the joints. If you’re an intermediate lifter then go for it, try it out, it may work for you. Intermediate lifting should be all about trying things for yourself and getting to know yourself better as a lifter.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;What are some next logical programs to try after this one?&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Texas Method, Madcows 5x5, 5/3/1, PHAT, PHUL, /u/gzcl’s Jacked and Tan - any program designed towards intermediates that are in line with your goals. Pick something you think you’ll have fun with: unless this shit is your job or you really want to compete seriously then just have fun in the gym and don’t do something too retarded, and you’ll probably stick to it better than something you hate, and go to the gym with more drive and intensity. I’m a big believer that consistent effort is probably the most important thing you can make sure of. &lt;a href=&quot;http://www.powerliftingtowin.com/&quot; target=&quot;_blank&quot;&gt;PowerliftingToWin&lt;/a&gt; is a great resource for training information and programming information, so I would recommend reading a bunch there.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;CAN I DO THIS ROUTINE ONLY ONCE PER WEEK?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;You &lt;em&gt;could.&lt;/em&gt; And that’s all I’m gonna say. I wouldn’t recommend it, because that’d put frequency of all the lifts at only once per week. If you can only run it once per week then I would recommend something like Greyskull LP, Stronglifts 5x5 or Starting Strength instead for increased frequency.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 15 Mar 2016 20:44:59 -0700</pubDate>
+        <link>eyejaeplas.com/fitness/current-work-out-160316.html</link>
+        <guid isPermaLink="true">eyejaeplas.com/fitness/current-work-out-160316.html</guid>
+        
+        <category>workout</category>
+        
+        <category>heath</category>
+        
+        <category>reddit</category>
+        
+        
+        <category>fitness</category>
+        
+      </item>
+    
+      <item>
+        <title>Converting my older sites to Jekyll</title>
+        <description>&lt;h3 id=&quot;the-new-old-site&quot;&gt;The “new” old site&lt;/h3&gt;
+
+&lt;p&gt;I was looking at one of my websites, &lt;a href=&quot;https://www.Marveldcfilms.com&quot; target=&quot;_blank&quot;&gt;MarvelDCfilms.com&lt;/a&gt;, that i have been working on for a couple of years now.
+Currently the site is “under construction”, more like “under highway construction” since i haven’t worked on it in a while.
+I have the frame of what i want it to be like, but i never really like that there were too many files with a lot of content to work on.
+By switching to Jekyll there will probably be just as many, if not more, file as the current form of it, but they will be easier to manage.
+I could divide all markdown files into “/MCU/, /DCU/, /XMEN/…” those could be the main folders per Cinematic Universe and within i could have subfolders with
+“/Characters/, /Timeline/, etc”. This will make the whole process a lot easier for adding more content and making quick changes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;But first&lt;/em&gt;&lt;/strong&gt; i have to finish &lt;strong&gt;This&lt;/strong&gt; site. I am still trying to get my blog finished.&lt;/p&gt;
+
+&lt;h3 id=&quot;this-blog&quot;&gt;This blog&lt;/h3&gt;
+
+&lt;p&gt;I am probably going to be “reposting” my entries on tumblr too just so i could reach a bigger audience.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Mar 2016 19:44:59 -0800</pubDate>
+        <link>eyejaeplas.com/Work/Converting-my-older-sites.html</link>
+        <guid isPermaLink="true">eyejaeplas.com/Work/Converting-my-older-sites.html</guid>
+        
+        <category>Jekyll</category>
+        
+        <category>WebDev</category>
+        
+        <category>My work</category>
+        
+        
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>Elevators Ep</title>
+        <description>&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;large-6 columns&quot;&gt;
+
+    My buddy Oscar Garcia put out his debut Ep &#39;Elevators&#39; a couple of weeks ago. The album feels like a modern mixture of Jazz and Hip-Hop with a French neo-noir undertone. I might be a little bias by saying how much i enjoyed it, but i really love seeing my friends create awesome content. Whether it is an awesome Ep, a drawing, a video, or even a well made meal. When i know the person who put hard work into it i tend to appreciate it a bit more. With that being said, i will now go into a small breakdown of what enjoyed about it.
+
+  &lt;/div&gt;
+
+
+
+  &lt;div class=&quot;large-6 columns&quot;&gt;
+
+    &lt;iframe width=&quot;100%&quot; height=&quot;400&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/184357505&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=true&quot;&gt;&lt;/iframe&gt;
+
+  &lt;/div&gt;
+
+
+&lt;/div&gt;
+
+&lt;h2 id=&quot;track-1---in-a-major-way&quot;&gt;Track 1 - In A Major Way&lt;/h2&gt;
+
+&lt;p&gt;The songs has a perfect start. Right off the bat you get the&lt;/p&gt;
+
+&lt;p&gt;FB: https://www.facebook.com/OG-339340846263463/
+soundcloud: https://soundcloud.com/ohgeeclassics&lt;/p&gt;
+</description>
+        <pubDate>Fri, 11 Mar 2016 19:44:59 -0800</pubDate>
+        <link>eyejaeplas.com/music/Elevators-Ep.html</link>
+        <guid isPermaLink="true">eyejaeplas.com/music/Elevators-Ep.html</guid>
+        
+        <category>Recommendation</category>
+        
+        <category>friend&#39;s work</category>
+        
+        
+        <category>music</category>
+        
+      </item>
+    
+      <item>
+        <title>Antiques</title>
+        <description>&lt;p&gt;&lt;img src=&quot;http://eyejaePlas.com/assets/photo/anti.jpg&quot; alt=&quot;mojave&quot; /&gt;
+mojave
+&lt;em&gt;Mojave Desert&lt;/em&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 09 Mar 2016 18:22:24 -0800</pubDate>
+        <link>eyejaeplas.com/photo/antiques.html</link>
+        <guid isPermaLink="true">eyejaeplas.com/photo/antiques.html</guid>
+        
+        <category>landscape</category>
+        
+        <category>desert</category>
+        
+        
+        <category>photo</category>
+        
+      </item>
+    
+  </channel>
+</rss>
