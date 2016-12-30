@@ -4,10 +4,10 @@
     <title>eyejae Plas</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>eyejaeplas.com/</link>
-    <atom:link href="eyejaeplas.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 15 Apr 2016 18:06:37 -0700</pubDate>
-    <lastBuildDate>Fri, 15 Apr 2016 18:06:37 -0700</lastBuildDate>
+    <link>http://nosoyivan.github.io/eyejaesite//</link>
+    <atom:link href="http://nosoyivan.github.io/eyejaesite//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 15 Apr 2016 18:41:53 -0700</pubDate>
+    <lastBuildDate>Fri, 15 Apr 2016 18:41:53 -0700</lastBuildDate>
     <generator>Jekyll v3.1.2</generator>
     
       <item>
@@ -15,8 +15,8 @@
         <description>&lt;h2 id=&quot;mp3-test&quot;&gt;mp3 test&lt;/h2&gt;
 </description>
         <pubDate>Wed, 06 Apr 2016 20:44:59 -0700</pubDate>
-        <link>eyejaeplas.com/test/audio.html</link>
-        <guid isPermaLink="true">eyejaeplas.com/test/audio.html</guid>
+        <link>http://nosoyivan.github.io/eyejaesite//test/audio.html</link>
+        <guid isPermaLink="true">http://nosoyivan.github.io/eyejaesite//test/audio.html</guid>
         
         <category>test</category>
         
@@ -32,8 +32,8 @@
         <description>&lt;p&gt;test&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Apr 2016 14:02:59 -0700</pubDate>
-        <link>eyejaeplas.com/Quick-Tips/Converting-my-older-sites.html</link>
-        <guid isPermaLink="true">eyejaeplas.com/Quick-Tips/Converting-my-older-sites.html</guid>
+        <link>http://nosoyivan.github.io/eyejaesite//Quick-Tips/Converting-my-older-sites.html</link>
+        <guid isPermaLink="true">http://nosoyivan.github.io/eyejaesite//Quick-Tips/Converting-my-older-sites.html</guid>
         
         <category>Jekyll</category>
         
@@ -359,8 +359,8 @@
 &lt;p&gt;You &lt;em&gt;could.&lt;/em&gt; And that’s all I’m gonna say. I wouldn’t recommend it, because that’d put frequency of all the lifts at only once per week. If you can only run it once per week then I would recommend something like Greyskull LP, Stronglifts 5x5 or Starting Strength instead for increased frequency.&lt;/p&gt;
 </description>
         <pubDate>Tue, 15 Mar 2016 20:44:59 -0700</pubDate>
-        <link>eyejaeplas.com/fitness/current-work-out-160316.html</link>
-        <guid isPermaLink="true">eyejaeplas.com/fitness/current-work-out-160316.html</guid>
+        <link>http://nosoyivan.github.io/eyejaesite//fitness/current-work-out-160316.html</link>
+        <guid isPermaLink="true">http://nosoyivan.github.io/eyejaesite//fitness/current-work-out-160316.html</guid>
         
         <category>workout</category>
         
@@ -391,8 +391,8 @@ I could divide all markdown files into “/MCU/, /DCU/, /XMEN/…” those could
 &lt;p&gt;I am probably going to be “reposting” my entries on tumblr too just so i could reach a bigger audience.&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Mar 2016 19:44:59 -0800</pubDate>
-        <link>eyejaeplas.com/Work/Converting-my-older-sites.html</link>
-        <guid isPermaLink="true">eyejaeplas.com/Work/Converting-my-older-sites.html</guid>
+        <link>http://nosoyivan.github.io/eyejaesite//Work/Converting-my-older-sites.html</link>
+        <guid isPermaLink="true">http://nosoyivan.github.io/eyejaesite//Work/Converting-my-older-sites.html</guid>
         
         <category>Jekyll</category>
         
@@ -433,8 +433,8 @@ I could divide all markdown files into “/MCU/, /DCU/, /XMEN/…” those could
 soundcloud: https://soundcloud.com/ohgeeclassics&lt;/p&gt;
 </description>
         <pubDate>Fri, 11 Mar 2016 19:44:59 -0800</pubDate>
-        <link>eyejaeplas.com/music/Elevators-Ep.html</link>
-        <guid isPermaLink="true">eyejaeplas.com/music/Elevators-Ep.html</guid>
+        <link>http://nosoyivan.github.io/eyejaesite//music/Elevators-Ep.html</link>
+        <guid isPermaLink="true">http://nosoyivan.github.io/eyejaesite//music/Elevators-Ep.html</guid>
         
         <category>Recommendation</category>
         
@@ -453,8 +453,8 @@ mojave
 
 </description>
         <pubDate>Wed, 09 Mar 2016 18:22:24 -0800</pubDate>
-        <link>eyejaeplas.com/photo/antiques.html</link>
-        <guid isPermaLink="true">eyejaeplas.com/photo/antiques.html</guid>
+        <link>http://nosoyivan.github.io/eyejaesite//photo/antiques.html</link>
+        <guid isPermaLink="true">http://nosoyivan.github.io/eyejaesite//photo/antiques.html</guid>
         
         <category>landscape</category>
         
